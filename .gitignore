@@ -1,0 +1,33 @@
+# aspireit_backend/.gitignore
+# Python files
+aspireit_backend/__pycache__/
+aspireit_backend/app/main/__pycache__/
+aspireit_backend/app/auth/__pycache__/
+aspireit_backend/app/ml/__pycache__/
+aspireit_backend/*.pyc
+aspireit_backend/*.pyo
+aspireit_backend/*.pyd
+
+# Virtual environment
+aspireit_backend/venv/
+
+# Flask specific
+aspireit_backend/instance/
+aspireit_backend/*.pyc
+aspireit_backend/*.pyo
+aspireit_backend/*.db
+
+
+# aspireit_frontend/.gitignore
+# Dependency directories
+aspireit_frontend/node_modules/
+
+# Build files
+aspireit_frontend/build/
+aspireit_frontend/dist/
+
+aspireit_frontend/venv/
+
+
+
+

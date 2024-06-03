@@ -1,0 +1,6 @@
+Flask==2.0.2
+Flask-PyMongo==2.3.0
+Flask-JWT-Extended==4.3.0
+numpy
+pandas
+scikit-learn
