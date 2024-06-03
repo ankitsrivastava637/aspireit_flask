@@ -42,6 +42,11 @@ pip install -r requirements.txt
 python run.py
 ```
 
+## Running the Backend unit Tests
+You can run the tests by executing the following command in your terminal:
+```bash
+python -m unittest discover tests
+```
 
 ## Frontend (React):
 
@@ -56,5 +61,7 @@ npm install
 ```bash
 npm start
 ```
+
+
 
 
