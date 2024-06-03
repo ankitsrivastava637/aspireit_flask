@@ -1,5 +1,6 @@
 # Aspireit Assignment
-
+## Name : Ankit Srivastava
+## email : ankitsrivastava637as@gmail.com
 ## Project Structure
 - `app/`: Contains the Flask application.
 - `app/auth/`: Authentication-related routes and models.
